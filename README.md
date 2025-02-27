@@ -8,11 +8,11 @@ Hi, I'm a SNCT student. 🤝
 ## 📈 Status
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokokoko0825&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kokokoko0825" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokokoko0825&layout=compact&theme=dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kokokoko0825&count-private=true&show_icons=true&theme=dark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kokokoko0825&margin-w=5)](https://github.com/kokokoko0825/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kokokoko0825&margin-w=5&theme=onedark)](https://github.com/kokokoko0825/)
 
 ## 📨 Contact me.
 
