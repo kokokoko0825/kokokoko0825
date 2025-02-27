@@ -8,7 +8,7 @@ Hi, I'm a SNCT student. 🤝
 ## 📈 Status
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/kokokoko0825/?username=kokokoko0825&layout=compact&show_icons=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokokoko0825&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kokokoko0825" />
 </p>
 
