@@ -2,7 +2,7 @@
 Hi, I'm a SNCT student. 🤝
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,react,remix,nextjs,tailwind,vite,webpack,firebase,aws,git,github,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,remix,firebase,github,figma" />
 
 
 ## 📈 Status
