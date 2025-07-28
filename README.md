@@ -1,4 +1,4 @@
-## 🌕 About kokokoko0825
+## 🐶🐱 About kokokoko0825
 Hi, I'm a SNCT student. 🤝
 
 ### 🌱 my skills
